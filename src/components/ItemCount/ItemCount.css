@@ -1,0 +1,14 @@
+.button {
+    background-color: rgb(106, 20, 206);
+    color: aliceblue;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-family: cursive;
+    display: inline-block;
+    padding: 5px 15px;
+    margin: 5px;
+
+}

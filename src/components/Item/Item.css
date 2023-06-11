@@ -1,0 +1,34 @@
+.cardProductos {
+    box-shadow: 5px 10px 15px rgb(22, 20, 20);
+    border-radius: 10px;
+    background-color: beige;
+    width: 15rem;
+    margin: 1rem;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.imgProducto {
+    width: 15rem;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.botonDetalle {
+    background-color: green;
+    color: aliceblue;
+    font-size: 1.2rem;
+    width: 10rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-family: cursive;
+}
